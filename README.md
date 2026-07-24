@@ -1,40 +1,61 @@
 # Hi 👋 I'm Parth Sharma
 
-🎓 Third-Year B.Tech Artificial Intelligence Student at SRM Institute of Science and Technology
+🎓 Third-Year B.Tech Artificial Intelligence Student at SRM Institute of Science and Technology (SRMIST)
 
-## About Me
+💻 Passionate about Software Engineering, Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-- Interested in Software Development, AI and Machine Learning
-- Building Full-Stack Applications using React and FastAPI
-- Currently learning Data Structures & Algorithms
-- Looking for Software Engineering Internship opportunities
+---
 
-## Tech Stack
+## 🚀 About Me
+
+- 🔭 Currently building Full-Stack applications using React, FastAPI, and MySQL
+- 🌱 Learning Data Structures & Algorithms and Backend Development
+- 🤖 Interested in AI, Machine Learning, and Software Engineering
+- 🎯 Seeking Software Engineering Internship opportunities
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-Python, C, SQL
+- Python
+- C
+- SQL
 
 ### Frontend
-React, HTML, CSS, JavaScript
+- React
+- HTML
+- CSS
+- JavaScript
 
 ### Backend
-FastAPI
+- FastAPI
 
 ### Database
-MySQL
+- MySQL
 
 ### Libraries
-NumPy, Pandas, Matplotlib
+- NumPy
+- Pandas
+- Matplotlib
 
 ### Tools
-Git, GitHub, VS Code, Jupyter Notebook
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
-## Current Projects
+---
 
-- IT Asset Management System
-- Bank Marketing Prediction
-- DSA Practice in Python
+## 📂 Featured Projects
 
-## Contact
+- 🚀 IT Asset Management System *(Coming Soon)*
+- 📈 Bank Marketing Prediction *(Coming Soon)*
+- 💻 DSA in Python *(Coming Soon)*
 
-📧 parthsharmahero007@gmail.com
+---
+
+## 📫 Contact
+
+📧 **parthsharmahero007@gmail.com**
