@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Parth Sharma
 
-<!--
-**parthsh18/parthsh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year B.Tech Artificial Intelligence Student at SRM Institute of Science and Technology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Software Development, AI and Machine Learning
+- Building Full-Stack Applications using React and FastAPI
+- Currently learning Data Structures & Algorithms
+- Looking for Software Engineering Internship opportunities
+
+## Tech Stack
+
+### Languages
+Python, C, SQL
+
+### Frontend
+React, HTML, CSS, JavaScript
+
+### Backend
+FastAPI
+
+### Database
+MySQL
+
+### Libraries
+NumPy, Pandas, Matplotlib
+
+### Tools
+Git, GitHub, VS Code, Jupyter Notebook
+
+## Current Projects
+
+- IT Asset Management System
+- Bank Marketing Prediction
+- DSA Practice in Python
+
+## Contact
+
+📧 parthsharmahero007@gmail.com
